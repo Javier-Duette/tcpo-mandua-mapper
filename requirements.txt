@@ -1,0 +1,7 @@
+google-generativeai==0.8.6
+openpyxl==3.1.5
+pandas==3.0.2
+python-dotenv==1.2.2
+rapidfuzz==3.14.5
+tqdm==4.67.3
+unidecode==1.4.0
