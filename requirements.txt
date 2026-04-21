@@ -5,3 +5,4 @@ python-dotenv==1.2.2
 rapidfuzz==3.14.5
 tqdm==4.67.3
 unidecode==1.4.0
+pytest==9.0.3
