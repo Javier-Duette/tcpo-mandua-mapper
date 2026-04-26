@@ -159,58 +159,100 @@ with col_main:
     # Tabla editable de favoritos
     # ---------------------------------------------------------------------------
     st.markdown("#### Partidas del proyecto")
-    st.caption("Editá cantidad, precio o notas directamente en la tabla.")
 
-    edit_cols = {
-        "cantidad_estimada":         st.column_config.NumberColumn("Cantidad", min_value=0, step=0.01),
-        "precio_unitario_manual_gs": st.column_config.NumberColumn("Precio Gs.", min_value=0, step=100,
-                                                                    format="%d"),
-        "notas_propias":             st.column_config.TextColumn("Notas"),
-    }
-    display_df = df_favs[[
-        "fav_id", "orden", "codigo", "descripcion_es", "unidad",
-        "cantidad_estimada", "precio_unitario_manual_gs", "match_mandua",
-        "relevancia_py", "notas_propias",
-    ]].copy()
-    display_df["subtotal"] = (
-        display_df["cantidad_estimada"].fillna(0) *
-        display_df["precio_unitario_manual_gs"].fillna(0)
-    )
-    display_df["relevancia_py"] = display_df["relevancia_py"].fillna("sin_clasificar")
+    df_ser   = df_favs[df_favs["class"].str.startswith("SER.", na=False)].copy()
+    df_otros = df_favs[~df_favs["class"].str.startswith("SER.", na=False)].copy()
 
-    edited = st.data_editor(
-        display_df.drop(columns=["fav_id"]),
-        column_config={
-            "orden":         st.column_config.NumberColumn("Orden", disabled=True),
-            "codigo":        st.column_config.TextColumn("Código", disabled=True),
-            "descripcion_es": st.column_config.TextColumn("Descripción", disabled=True,
-                                                            width="large"),
-            "unidad":        st.column_config.TextColumn("Unidad", disabled=True),
-            "cantidad_estimada":          edit_cols["cantidad_estimada"],
-            "precio_unitario_manual_gs":  edit_cols["precio_unitario_manual_gs"],
-            "match_mandua":  st.column_config.TextColumn("Match Mandu'a", disabled=True),
-            "relevancia_py": st.column_config.TextColumn("Relevancia", disabled=True),
-            "notas_propias": edit_cols["notas_propias"],
-            "subtotal":      st.column_config.NumberColumn("Subtotal Gs.", disabled=True,
-                                                            format="%d"),
-        },
-        use_container_width=True,
-        hide_index=True,
-        num_rows="fixed",
-        key=f"editor_favs_{sel_id}",
-    )
+    # --- Servicios SER.CG: precio calculado automáticamente desde TCPO ---
+    if not df_ser.empty:
+        st.caption("🔧 **Servicios** — precio calculado desde composición TCPO. "
+                   "Para modificarlos → ⚙️ Configuración → Precios TCPO")
 
-    # Guardar cambios del data_editor
-    if st.button("💾 Guardar cambios", key="btn_save_favs", type="primary"):
-        for i, row in edited.iterrows():
-            fav_id = int(display_df.iloc[i]["fav_id"])
-            actualizar_favorito(fav_id, {
-                "cantidad_estimada":          row.get("cantidad_estimada"),
-                "precio_unitario_manual_gs":  row.get("precio_unitario_manual_gs"),
-                "notas_propias":              row.get("notas_propias") or None,
-            })
-        st.toast("Cambios guardados", icon="💾")
-        st.rerun()
+        df_ser["precio_efectivo"] = df_ser["precio_gs"].fillna(0)
+        df_ser["subtotal"]        = df_ser["cantidad_estimada"].fillna(0) * df_ser["precio_efectivo"]
+        df_ser["relevancia_py"]   = df_ser["relevancia_py"].fillna("sin_clasificar")
+
+        disp_ser = df_ser[[
+            "fav_id", "orden", "codigo", "descripcion_es", "unidad",
+            "cantidad_estimada", "precio_efectivo", "subtotal",
+            "match_mandua", "relevancia_py", "notas_propias",
+        ]].copy()
+
+        edited_ser = st.data_editor(
+            disp_ser.drop(columns=["fav_id"]),
+            column_config={
+                "orden":           st.column_config.NumberColumn("Orden",        disabled=True),
+                "codigo":          st.column_config.TextColumn("Código",         disabled=True),
+                "descripcion_es":  st.column_config.TextColumn("Descripción",    disabled=True, width="large"),
+                "unidad":          st.column_config.TextColumn("Unidad",         disabled=True),
+                "cantidad_estimada": st.column_config.NumberColumn("Cantidad",   min_value=0, step=0.01),
+                "precio_efectivo": st.column_config.NumberColumn("Precio Gs.",   disabled=True, format="%d",
+                                                                  help="Calculado automáticamente desde TCPO"),
+                "subtotal":        st.column_config.NumberColumn("Subtotal Gs.", disabled=True, format="%d"),
+                "match_mandua":    st.column_config.TextColumn("Match Mandu'a",  disabled=True),
+                "relevancia_py":   st.column_config.TextColumn("Relevancia",     disabled=True),
+                "notas_propias":   st.column_config.TextColumn("Notas"),
+            },
+            use_container_width=True,
+            hide_index=True,
+            num_rows="fixed",
+            key=f"editor_ser_{sel_id}",
+        )
+
+        if st.button("💾 Guardar cambios", key="btn_save_ser", type="primary"):
+            for i, row in edited_ser.iterrows():
+                fav_id = int(disp_ser.iloc[i]["fav_id"])
+                actualizar_favorito(fav_id, {
+                    "cantidad_estimada": row.get("cantidad_estimada"),
+                    "notas_propias":     row.get("notas_propias") or None,
+                })
+            st.toast("Cambios guardados", icon="💾")
+            st.rerun()
+
+    # --- Otros insumos (MAT., M.O., etc.): precio manual ---
+    if not df_otros.empty:
+        st.caption("📦 **Insumos directos** — precio editable manualmente")
+
+        df_otros["subtotal"]      = (df_otros["cantidad_estimada"].fillna(0) *
+                                     df_otros["precio_unitario_manual_gs"].fillna(0))
+        df_otros["relevancia_py"] = df_otros["relevancia_py"].fillna("sin_clasificar")
+
+        disp_otros = df_otros[[
+            "fav_id", "orden", "codigo", "descripcion_es", "unidad",
+            "cantidad_estimada", "precio_unitario_manual_gs", "subtotal",
+            "match_mandua", "relevancia_py", "notas_propias",
+        ]].copy()
+
+        edited_otros = st.data_editor(
+            disp_otros.drop(columns=["fav_id"]),
+            column_config={
+                "orden":                     st.column_config.NumberColumn("Orden",        disabled=True),
+                "codigo":                    st.column_config.TextColumn("Código",         disabled=True),
+                "descripcion_es":            st.column_config.TextColumn("Descripción",    disabled=True, width="large"),
+                "unidad":                    st.column_config.TextColumn("Unidad",         disabled=True),
+                "cantidad_estimada":         st.column_config.NumberColumn("Cantidad",     min_value=0, step=0.01),
+                "precio_unitario_manual_gs": st.column_config.NumberColumn("Precio Gs.",   min_value=0, step=100, format="%d"),
+                "subtotal":                  st.column_config.NumberColumn("Subtotal Gs.", disabled=True, format="%d"),
+                "match_mandua":              st.column_config.TextColumn("Match Mandu'a",  disabled=True),
+                "relevancia_py":             st.column_config.TextColumn("Relevancia",     disabled=True),
+                "notas_propias":             st.column_config.TextColumn("Notas"),
+            },
+            use_container_width=True,
+            hide_index=True,
+            num_rows="fixed",
+            key=f"editor_otros_{sel_id}",
+        )
+
+        if st.button("💾 Guardar cambios", key="btn_save_otros", type="primary"):
+            for i, row in edited_otros.iterrows():
+                fav_id = int(disp_otros.iloc[i]["fav_id"])
+                actualizar_favorito(fav_id, {
+                    "cantidad_estimada":         row.get("cantidad_estimada"),
+                    "precio_unitario_manual_gs": row.get("precio_unitario_manual_gs"),
+                    "notas_propias":             row.get("notas_propias") or None,
+                })
+            st.toast("Cambios guardados", icon="💾")
+            st.rerun()
 
     st.divider()
 

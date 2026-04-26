@@ -120,8 +120,11 @@ def main():
     # 6. Indices nuevos
     # -----------------------------------------------------------------------
     indices = [
-        ("idx_tcpo_relevancia", "tcpo_items(relevancia_py)"),
+        ("idx_tcpo_relevancia",  "tcpo_items(relevancia_py)"),
         ("idx_tcpo_cap_subcap",  "tcpo_items(capitulo, subcapitulo)"),
+        ("idx_tcpo_codigo",      "tcpo_items(codigo)"),
+        ("idx_tcpo_class",       "tcpo_items(class)"),
+        ("idx_tcpo_class_coef",  "tcpo_items(class, coef)"),
         ("idx_fav_proyecto",     "favoritos(proyecto_id)"),
         ("idx_fav_tcpo_item",    "favoritos(tcpo_item_id)"),
     ]

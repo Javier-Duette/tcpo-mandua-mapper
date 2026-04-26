@@ -1,0 +1,37 @@
+============================================================
+  TCPO Explorer PY — Guia de instalacion
+============================================================
+
+REQUISITO PREVIO: Python 3.11 o superior
+-----------------------------------------
+Si no tenes Python instalado:
+  1. Abri tu navegador y anda a:  https://www.python.org/downloads/
+  2. Hace clic en "Download Python 3.x.x" (el boton amarillo grande)
+  3. Ejecuta el instalador descargado
+  4. MUY IMPORTANTE: tilda la casilla "Add Python to PATH" antes de instalar
+  5. Hace clic en "Install Now"
+
+
+INSTALACION (solo la primera vez)
+-----------------------------------
+  1. Descomprimí el ZIP en cualquier carpeta de tu PC
+  2. Abrí la carpeta descomprimida
+  3. Doble click en:  setup.bat
+  4. Espera que termine (2-3 minutos, descarga las dependencias)
+  5. Cuando veas "Instalacion completada", ya esta listo
+
+
+ABRIR EL PROGRAMA
+------------------
+  - Doble click en:  iniciar.bat
+  - El programa se abre automaticamente en tu navegador
+  - Si no abre solo, ingresa en el navegador:  http://localhost:8501
+  - Para cerrar: cerrá la ventana negra (terminal)
+
+
+NOTA
+-----
+No necesitas conexion a internet para usar el programa.
+La base de datos ya viene incluida con todos los datos cargados.
+
+============================================================

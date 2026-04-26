@@ -1,0 +1,462 @@
+﻿id,seccion,descripcion,unidad,precio_gs,fuente_edicion
+603,AISLACION HIDROFUGA,Asfalkote + velo sobre base,m²,17000.0,N°514 Mar 2026
+607,AISLACION HIDROFUGA,Azotada hidrófuga + Pintura asfáltica,m²,25000.0,N°514 Mar 2026
+605,AISLACION HIDROFUGA,"Azotada hidrófuga, pintura asfáltica y panderete",m²,42000.0,N°514 Mar 2026
+596,AISLACION HIDROFUGA,"De 0,15 m",ml,5000.0,N°514 Mar 2026
+598,AISLACION HIDROFUGA,"De 0,15 m",ml,11000.0,N°514 Mar 2026
+597,AISLACION HIDROFUGA,"De 0,30 m",ml,7000.0,N°514 Mar 2026
+599,AISLACION HIDROFUGA,"De 0,30 m",ml,16000.0,N°514 Mar 2026
+600,AISLACION HIDROFUGA,"De losa/techo plano incluye: contrapiso (7cm), carpeta, pintura asfáltica, colocación membrana o velo de vidrio y piso de tejuelita",m²,74000.0,N°514 Mar 2026
+604,AISLACION HIDROFUGA,Membrana asfáltica,m²,16000.0,N°514 Mar 2026
+606,AISLACION HIDROFUGA,Pintura asfáltica + trama,m²,25000.0,N°514 Mar 2026
+602,AISLACION HIDROFUGA,Pintura asfáltica + trama sobre base,m²,17000.0,N°514 Mar 2026
+601,AISLACION HIDROFUGA,"Rebaje de losa p/ baño o cocina incluye: contrapiso, carpeta, velo, pintura asfáltica",m²,32000.0,N°514 Mar 2026
+837,CARPINTERIA DE ALUMINIO,Chico 1 m²,un,68000.0,N°514 Mar 2026
+840,CARPINTERIA DE ALUMINIO,Extra grande 5 m²,un,160000.0,N°514 Mar 2026
+839,CARPINTERIA DE ALUMINIO,Grande 4 m²,un,135000.0,N°514 Mar 2026
+838,CARPINTERIA DE ALUMINIO,Mediano 3 m²,un,98000.0,N°514 Mar 2026
+848,CARPINTERIA DE MADERA,Contramarco,ml,11000.0,N°514 Mar 2026
+841,CARPINTERIA DE MADERA,"De marco mayor de 1,00 m",un,120000.0,N°514 Mar 2026
+842,CARPINTERIA DE MADERA,"De marco menor de 1,00 m",un,90000.0,N°514 Mar 2026
+849,CARPINTERIA DE MADERA,"Pergolado, montaje",un,90000.0,N°514 Mar 2026
+844,CARPINTERIA DE MADERA,Puerta persiana o vidriera chica,hoja,50000.0,N°514 Mar 2026
+843,CARPINTERIA DE MADERA,Puerta placa,hoja,100000.0,N°514 Mar 2026
+845,CARPINTERIA DE MADERA,Puerta tablero,un,69000.0,N°514 Mar 2026
+846,CARPINTERIA DE MADERA,"Puerta tablero principal (hoja, manijón y visor)",un,135000.0,N°514 Mar 2026
+847,CARPINTERIA DE MADERA,"Ventana persiana o vidriera 0,65 x 1,00 m",un,40000.0,N°514 Mar 2026
+858,CARPINTERIA METALICA,Balancín chico 40x40 cm sin revoque,un,50000.0,N°514 Mar 2026
+860,CARPINTERIA METALICA,"Balancín grande 2,00x1,80 m sin revoque",un,105000.0,N°514 Mar 2026
+859,CARPINTERIA METALICA,"Balancín med 1,00x1,50 m sin revoque",un,80000.0,N°514 Mar 2026
+862,CARPINTERIA METALICA,Baranda de escalera metálica,ml,25000.0,N°514 Mar 2026
+867,CARPINTERIA METALICA,"Colocación de ángulos metálicos, cantoneras",ml,10000.0,N°514 Mar 2026
+854,CARPINTERIA METALICA,De guías metálicas y taparollo p/ cortina de enrollar,un,280000.0,N°514 Mar 2026
+850,CARPINTERIA METALICA,"De marco chapa doblada 0,80x2,10 m",un,70000.0,N°514 Mar 2026
+851,CARPINTERIA METALICA,"De marco chapa doblada 1,50x1,20 m",un,95000.0,N°514 Mar 2026
+852,CARPINTERIA METALICA,De marco chapa doblada con relleno,un,95000.0,N°514 Mar 2026
+853,CARPINTERIA METALICA,De marco metálico – ángulo,un,70000.0,N°514 Mar 2026
+856,CARPINTERIA METALICA,De reja de hierro aplicada a la pared,un,65000.0,N°514 Mar 2026
+855,CARPINTERIA METALICA,De reja de hierro entre marcos,un,47000.0,N°514 Mar 2026
+864,CARPINTERIA METALICA,Escalera metálica,un,65000.0,N°514 Mar 2026
+863,CARPINTERIA METALICA,Pasamanos,ml,19000.0,N°514 Mar 2026
+861,CARPINTERIA METALICA,"Portón cochera de 3,00x1,50 m",un,200000.0,N°514 Mar 2026
+857,CARPINTERIA METALICA,"Portón de hierro 1,00x1,50 m",un,120000.0,N°514 Mar 2026
+865,CARPINTERIA METALICA,Puerta metálica corta fuego,un,185000.0,N°514 Mar 2026
+866,CARPINTERIA METALICA,Puerta metálica mosquitera,un,110000.0,N°514 Mar 2026
+491,CASILLA OBRADOR,Barraca para depósito,m²,90000.0,N°514 Mar 2026
+490,CASILLA OBRADOR,"Casilla habitable, baños y vestuarios",m²,200000.0,N°514 Mar 2026
+669,CIELO RASO,Cornisa,ml,4000.0,N°514 Mar 2026
+668,CIELO RASO,"De machimbre de 1 x 3"" no incluye cornisa",m²,47000.0,N°514 Mar 2026
+667,CIELO RASO,"De machimbre de 1/2 x 3"" no incluye cornisa",m²,42000.0,N°514 Mar 2026
+666,CIELO RASO,"De metal desplegado, sin revoque",m²,40000.0,N°514 Mar 2026
+786,COLOCACION ARTEFACTOS,"Accesorios de baño (jabonera, percha, etc.)",un,24000.0,N°514 Mar 2026
+778,COLOCACION ARTEFACTOS,Artefactos sanitarios x boca,bc,125000.0,N°514 Mar 2026
+784,COLOCACION ARTEFACTOS,Bañera común,un,340000.0,N°514 Mar 2026
+785,COLOCACION ARTEFACTOS,Bañera hidromasaje,un,560000.0,N°514 Mar 2026
+779,COLOCACION ARTEFACTOS,"Baño completo, 125.000 x 4 =",un,500000.0,N°514 Mar 2026
+780,COLOCACION ARTEFACTOS,"Baño de servicio, 125.000 x 2 =",un,250000.0,N°514 Mar 2026
+781,COLOCACION ARTEFACTOS,"Baño social, 125.000 x 2 =",un,250000.0,N°514 Mar 2026
+787,COLOCACION ARTEFACTOS,Colocación de calefón,un,190000.0,N°514 Mar 2026
+788,COLOCACION ARTEFACTOS,Colocación de ducha eléctrica,un,35000.0,N°514 Mar 2026
+782,COLOCACION ARTEFACTOS,Pileta de cocina,un,130000.0,N°514 Mar 2026
+783,COLOCACION ARTEFACTOS,Pileta de lavar,un,130000.0,N°514 Mar 2026
+617,CONTRAPISOS (no incluye alisada),Apisonado de H° cascotes con varilla,m²,22000.0,N°514 Mar 2026
+619,CONTRAPISOS (no incluye alisada),Apisonado sobre losa H° A° e=6 cm,m²,14000.0,N°514 Mar 2026
+618,CONTRAPISOS (no incluye alisada),Apisonado sobre losa H° A° e=7 cm,m²,15000.0,N°514 Mar 2026
+620,CONTRAPISOS (no incluye alisada),"Contrapiso de H° A°, e=7 cm",m²,35000.0,N°514 Mar 2026
+614,CONTRAPISOS (no incluye alisada),De 10 cm sobre terreno natural,m²,19000.0,N°514 Mar 2026
+615,CONTRAPISOS (no incluye alisada),"De 10 cm, con pendiente",m²,22000.0,N°514 Mar 2026
+616,CONTRAPISOS (no incluye alisada),De 20 cm,m²,28000.0,N°514 Mar 2026
+613,CONTRAPISOS (no incluye alisada),De 8 cm sobre terreno natural,m²,16000.0,N°514 Mar 2026
+464,DEMOLICIONES,"De 0,15 m",m²,19000.0,N°514 Mar 2026
+467,DEMOLICIONES,"De 0,15 m",m²,12000.0,N°514 Mar 2026
+463,DEMOLICIONES,"De 0,30 m",m²,26000.0,N°514 Mar 2026
+466,DEMOLICIONES,"De 0,30 m",m²,18000.0,N°514 Mar 2026
+462,DEMOLICIONES,"De 0,45 m",m²,34000.0,N°514 Mar 2026
+465,DEMOLICIONES,"De 0,45 m",m²,21000.0,N°514 Mar 2026
+483,DEMOLICIONES VARIAS,"Abrir vano en mampostería de 0,15 m",m²,28000.0,N°514 Mar 2026
+484,DEMOLICIONES VARIAS,"Abrir vano en mampostería de 0,30 m",m²,42000.0,N°514 Mar 2026
+472,DEMOLICIONES VARIAS,De cielorraso armado (desmontar),m²,22000.0,N°514 Mar 2026
+475,DEMOLICIONES VARIAS,De contrapiso (cuando no hay piso),m²,5000.0,N°514 Mar 2026
+473,DEMOLICIONES VARIAS,De losa de H° A°,m²,60000.0,N°514 Mar 2026
+474,DEMOLICIONES VARIAS,De piso/revoque/revestimiento,m²,11000.0,N°514 Mar 2026
+471,DEMOLICIONES VARIAS,De techo bovedilla,m²,32000.0,N°514 Mar 2026
+470,DEMOLICIONES VARIAS,De techo de chapa,m²,10000.0,N°514 Mar 2026
+468,DEMOLICIONES VARIAS,De techo de teja con recuperación,m²,28000.0,N°514 Mar 2026
+469,DEMOLICIONES VARIAS,De techo de teja sin recuperación,m²,16000.0,N°514 Mar 2026
+481,DEMOLICIONES VARIAS,Desmontar Aire Acondicionado,un,91000.0,N°514 Mar 2026
+478,DEMOLICIONES VARIAS,Desmontar artefactos sanitarios,un,42000.0,N°514 Mar 2026
+482,DEMOLICIONES VARIAS,Desmontar electricidad (boca),bc,6000.0,N°514 Mar 2026
+480,DEMOLICIONES VARIAS,"Desmontar mamparas (Durlock, Duratec, etc.)",m²,28000.0,N°514 Mar 2026
+479,DEMOLICIONES VARIAS,Desmontar marcos y balancines,un,40000.0,N°514 Mar 2026
+477,DEMOLICIONES VARIAS,Sacar azulejos,m²,9000.0,N°514 Mar 2026
+476,DEMOLICIONES VARIAS,Sacar zócalo,m²,2000.0,N°514 Mar 2026
+757,DESAGUES,Baño completo con bañera,un,410000.0,N°514 Mar 2026
+756,DESAGUES,Baño completo standard,un,340000.0,N°514 Mar 2026
+758,DESAGUES,Baño de servicio,un,240000.0,N°514 Mar 2026
+759,DESAGUES,Baño social,un,170000.0,N°514 Mar 2026
+750,DESAGUES,Boca desagüe abierta 30x30 cm,un,70000.0,N°514 Mar 2026
+751,DESAGUES,Boca desagüe abierta 40x40 cm,un,70000.0,N°514 Mar 2026
+762,DESAGUES,Caño H° 100 cm,ml,130000.0,N°514 Mar 2026
+764,DESAGUES,Caño H° 60 cm,ml,85000.0,N°514 Mar 2026
+763,DESAGUES,Caño H° 80 cm,ml,100000.0,N°514 Mar 2026
+741,DESAGUES,Caño H° armado 100 cm,ml,90000.0,N°514 Mar 2026
+740,DESAGUES,Caño H° armado 80 cm,ml,75000.0,N°514 Mar 2026
+736,DESAGUES,Caño H° centrifugado 30 cm,ml,28000.0,N°514 Mar 2026
+737,DESAGUES,Caño H° centrifugado 40 cm,ml,35000.0,N°514 Mar 2026
+738,DESAGUES,Caño H° centrifugado 50 cm,ml,36000.0,N°514 Mar 2026
+739,DESAGUES,Caño H° centrifugado 60 cm,ml,48000.0,N°514 Mar 2026
+767,DESAGUES,"Caño PVC 1""",ml,17000.0,N°514 Mar 2026
+769,DESAGUES,Caño PVC 1/2,ml,9000.0,N°514 Mar 2026
+734,DESAGUES,Caño PVC 100 mm,ml,25000.0,N°514 Mar 2026
+735,DESAGUES,Caño PVC 150 mm,ml,33000.0,N°514 Mar 2026
+768,DESAGUES,Caño PVC 3/4,ml,14000.0,N°514 Mar 2026
+732,DESAGUES,Caño PVC 40 mm,ml,15000.0,N°514 Mar 2026
+733,DESAGUES,Caño PVC 50 mm,ml,15000.0,N°514 Mar 2026
+753,DESAGUES,Cámara de drenaje 60x60 cm,un,170000.0,N°514 Mar 2026
+754,DESAGUES,"Cámara séptica (1,00x1,60x1,20 m) con excavación",un,1100000.0,N°514 Mar 2026
+747,DESAGUES,Desagüe abierto con rejilla 20 x 20,ml,50000.0,N°514 Mar 2026
+765,DESAGUES,Ducto subterráneo s/ tapa 10 x 20 cm,ml,50000.0,N°514 Mar 2026
+766,DESAGUES,Ducto subterráneo s/ tapa 20 x 40 cm,ml,75000.0,N°514 Mar 2026
+770,DESAGUES,"Instalación de canilla de patio, + 5 ml de cañería",un,68000.0,N°514 Mar 2026
+771,DESAGUES,Para baño completo,un,440000.0,N°514 Mar 2026
+777,DESAGUES,Para baño completo,un,750000.0,N°514 Mar 2026
+772,DESAGUES,Para baño de servicio,un,310000.0,N°514 Mar 2026
+773,DESAGUES,Para baño social,un,170000.0,N°514 Mar 2026
+775,DESAGUES,Para pileta de cocina,un,135000.0,N°514 Mar 2026
+776,DESAGUES,Para pileta de cocina,un,270000.0,N°514 Mar 2026
+761,DESAGUES,Para pileta de cocina (incluye desengrasador y caja sifonada),un,135000.0,N°514 Mar 2026
+774,DESAGUES,Para pileta de lavar,un,205000.0,N°514 Mar 2026
+760,DESAGUES,Para pileta de lavar y lavarropas,un,170000.0,N°514 Mar 2026
+755,DESAGUES,"Pozo absorvente (Ø: 1,50 m x altura 3,00 m) con excavación",un,1800000.0,N°514 Mar 2026
+742,DESAGUES,Registro 20X20 cm,un,93000.0,N°514 Mar 2026
+743,DESAGUES,Registro 30x30 cm,un,120000.0,N°514 Mar 2026
+744,DESAGUES,Registro 40X40 cm,un,130000.0,N°514 Mar 2026
+745,DESAGUES,Registro 50x50 cm,un,160000.0,N°514 Mar 2026
+746,DESAGUES,Registro 60x60 cm,un,170000.0,N°514 Mar 2026
+752,DESAGUES,Registro desengrasador con tapa de metálica,un,170000.0,N°514 Mar 2026
+749,DESAGUES,Rejilla de patio 30x30 cm,un,70000.0,N°514 Mar 2026
+748,DESAGUES,Rejilla de piso sifonada de 15x15 cm,un,65000.0,N°514 Mar 2026
+486,DESTRONQUE DE ARBOLES,Árbol chico,un,120000.0,N°514 Mar 2026
+489,DESTRONQUE DE ARBOLES,Árbol extra grande,un,750000.0,N°514 Mar 2026
+488,DESTRONQUE DE ARBOLES,Árbol grande,un,550000.0,N°514 Mar 2026
+487,DESTRONQUE DE ARBOLES,Árbol mediano,un,380000.0,N°514 Mar 2026
+608,DINTELES,Armado en obra: contínuo dentro de mampostería c/ 2 varillas,ml,12000.0,N°514 Mar 2026
+609,DINTELES,Armado en obra: doble armadura sobre aberturas c/ 4 varillas,ml,16000.0,N°514 Mar 2026
+610,DINTELES,Colocación de dintel prefabricado,ml,16000.0,N°514 Mar 2026
+612,DINTELES,Colocación de perfil de hierro,ml,16000.0,N°514 Mar 2026
+611,DINTELES,Dintel zuncho de bloque,ml,33000.0,N°514 Mar 2026
+524,ESTRUCTURAS DE H° A°,Cabezales de pilotes,m³,670000.0,N°514 Mar 2026
+535,ESTRUCTURAS DE H° A°,Cadena 13x30 en PB,ml,82000.0,N°514 Mar 2026
+536,ESTRUCTURAS DE H° A°,Cadena 20x40 en PB,ml,85000.0,N°514 Mar 2026
+523,ESTRUCTURAS DE H° A°,Desmochado pilote Ø 40 cm,un,140000.0,N°514 Mar 2026
+532,ESTRUCTURAS DE H° A°,Losa + columna + viga,m³,850000.0,N°514 Mar 2026
+531,ESTRUCTURAS DE H° A°,Losa sola,m³,850000.0,N°514 Mar 2026
+533,ESTRUCTURAS DE H° A°,"Losarap incluye relleno de losa, h=3,5 m",m²,85000.0,N°514 Mar 2026
+534,ESTRUCTURAS DE H° A°,"Losarap sin relleno de losa, h=3,5 m",m²,32000.0,N°514 Mar 2026
+520,ESTRUCTURAS DE H° A°,Muro Pantalla de H° A°,m³,1000000.0,N°514 Mar 2026
+525,ESTRUCTURAS DE H° A°,Pilar hasta 30x30 cm,ml,110000.0,N°514 Mar 2026
+528,ESTRUCTURAS DE H° A°,"Pilar suelto x m3, altura hasta 6,00 m",m³,1050000.0,N°514 Mar 2026
+527,ESTRUCTURAS DE H° A°,Pilar visto/viga vista,m³,950000.0,N°514 Mar 2026
+526,ESTRUCTURAS DE H° A°,Pilar x m3,m³,1000000.0,N°514 Mar 2026
+521,ESTRUCTURAS DE H° A°,Pilote Ø 40 cm,ml,65000.0,N°514 Mar 2026
+522,ESTRUCTURAS DE H° A°,Pilotín manual Ø 20 cm,ml,33000.0,N°514 Mar 2026
+543,ESTRUCTURAS DE H° A°,Piso allanado espesor 10 cm (Incl. Alq. máquina),m²,50000.0,N°514 Mar 2026
+542,ESTRUCTURAS DE H° A°,Piso allanado espesor 15 cm (Incl. Alq. máquina),m²,92000.0,N°514 Mar 2026
+544,ESTRUCTURAS DE H° A°,Piso allanado espesor 8 cm (Incl. Alq. máquina),m²,45000.0,N°514 Mar 2026
+540,ESTRUCTURAS DE H° A°,Piso rodillado espesor 10 cm,m²,35000.0,N°514 Mar 2026
+539,ESTRUCTURAS DE H° A°,Piso rodillado espesor 12 cm,m²,38000.0,N°514 Mar 2026
+541,ESTRUCTURAS DE H° A°,Piso rodillado espesor 8 cm,m²,32000.0,N°514 Mar 2026
+537,ESTRUCTURAS DE H° A°,"Tramo compensado a=1,20 m cada escalón",un,130000.0,N°514 Mar 2026
+538,ESTRUCTURAS DE H° A°,"Tramo recto a=1,20 m cada escalón",un,105000.0,N°514 Mar 2026
+519,ESTRUCTURAS DE H° A°,Tubulones H° ciclópeo con excavación,m³,430000.0,N°514 Mar 2026
+518,ESTRUCTURAS DE H° A°,Tubulones H° ciclópeo sin excavación,m³,380000.0,N°514 Mar 2026
+517,ESTRUCTURAS DE H° A°,Viga de fundación 20x40 cm,m³,800000.0,N°514 Mar 2026
+529,ESTRUCTURAS DE H° A°,Viga hasta 30x50,ml,120000.0,N°514 Mar 2026
+530,ESTRUCTURAS DE H° A°,Viga hasta 30x50,m³,900000.0,N°514 Mar 2026
+516,ESTRUCTURAS DE H° A°,Zapata,m³,700000.0,N°514 Mar 2026
+513,EXCAVACION (sin acarreo),Excavaciones varias suelo blando,m³,42000.0,N°514 Mar 2026
+514,EXCAVACION (sin acarreo),Excavaciones varias suelo duro,m³,60000.0,N°514 Mar 2026
+515,EXCAVACION (sin acarreo),Excavación p/ submuración c/ apuntalamiento,m³,70000.0,N°514 Mar 2026
+509,EXCAVACION (sin acarreo),Para cimiento,m³,42000.0,N°514 Mar 2026
+511,EXCAVACION (sin acarreo),Para pozo ciego,m³,60000.0,N°514 Mar 2026
+512,EXCAVACION (sin acarreo),Para tubulones,m³,50000.0,N°514 Mar 2026
+510,EXCAVACION (sin acarreo),Para zapata,m³,46000.0,N°514 Mar 2026
+545,FUNDACION CON PIEDRA BRUTA,Cimiento PBC sin excavación,m³,100000.0,N°514 Mar 2026
+546,FUNDACION CON PIEDRA BRUTA,Hormigón ciclópeo sin excavación,m³,200000.0,N°514 Mar 2026
+832,INSTALACION ELECTRICA,1 Tubo fluorescente,un,18000.0,N°514 Mar 2026
+830,INSTALACION ELECTRICA,A A split,un,350000.0,N°514 Mar 2026
+834,INSTALACION ELECTRICA,Apliques y arañas,un,18000.0,N°514 Mar 2026
+789,INSTALACION ELECTRICA,Boca de luz,bc,57000.0,N°514 Mar 2026
+825,INSTALACION ELECTRICA,Boca p/ teléfono,1 bc,,N°514 Mar 2026
+828,INSTALACION ELECTRICA,Circuito de intercomunicadores,1 bc,,N°514 Mar 2026
+827,INSTALACION ELECTRICA,Circuito de música funcional,1 bc,,N°514 Mar 2026
+829,INSTALACION ELECTRICA,Circuito de timbre con su pulsador,2 bc,,N°514 Mar 2026
+824,INSTALACION ELECTRICA,Circuito monofásico p/ motobomba c/ cable 4mm hasta 5 m del tablero,4 bc,,N°514 Mar 2026
+822,INSTALACION ELECTRICA,Circuito p/ AA sin montaje de aparato ni abertura de mampostería; hasta 5 m del tablero (mismo que recorran cañerías con otros circuitos),4 bc,,N°514 Mar 2026
+823,INSTALACION ELECTRICA,"Circuito p/ calefón o ducha eléctrica, idem anterior",4 bc,,N°514 Mar 2026
+826,INSTALACION ELECTRICA,Circuito para antena de TV,1 bc,,N°514 Mar 2026
+794,INSTALACION ELECTRICA,Colocación caja aire acondicionado,un,75000.0,N°514 Mar 2026
+799,INSTALACION ELECTRICA,"Colocación caja hasta 40x50 cm, embutida en mampostería",3 bc,,N°514 Mar 2026
+835,INSTALACION ELECTRICA,Colocación de artefacto,un,18000.0,N°514 Mar 2026
+836,INSTALACION ELECTRICA,Colocación de artefacto por columna,un,57000.0,N°514 Mar 2026
+817,INSTALACION ELECTRICA,"De 1""",ml,3000.0,N°514 Mar 2026
+815,INSTALACION ELECTRICA,"De 1/2""",ml,3000.0,N°514 Mar 2026
+816,INSTALACION ELECTRICA,"De 3/4""",ml,3000.0,N°514 Mar 2026
+814,INSTALACION ELECTRICA,"De 5/8""",ml,3000.0,N°514 Mar 2026
+800,INSTALACION ELECTRICA,Disyuntor TM de corte principal o seccional o de circuito unipolar,2 bc,,N°514 Mar 2026
+792,INSTALACION ELECTRICA,Idem anterior 40x40x70 cm,un,142500.0,N°514 Mar 2026
+801,INSTALACION ELECTRICA,Idem anterior tripolar,3 bc,,N°514 Mar 2026
+802,INSTALACION ELECTRICA,Instalación de interruptor diferencial,6 bc,,N°514 Mar 2026
+808,INSTALACION ELECTRICA,Monofásica de 10 mm,ml,9000.0,N°514 Mar 2026
+803,INSTALACION ELECTRICA,Monofásica de 4 a 10 mm,ml,7000.0,N°514 Mar 2026
+811,INSTALACION ELECTRICA,Monofásica de 4 a 10 mm,ml,3000.0,N°514 Mar 2026
+806,INSTALACION ELECTRICA,Monofásica de 4 mm,ml,7000.0,N°514 Mar 2026
+807,INSTALACION ELECTRICA,Monofásica de 6 mm,ml,7000.0,N°514 Mar 2026
+795,INSTALACION ELECTRICA,Monofásico con limitadora hasta 25 A,12 bc,,N°514 Mar 2026
+797,INSTALACION ELECTRICA,Monofásico con limitadora hasta 40 A,18 bc,,N°514 Mar 2026
+790,INSTALACION ELECTRICA,"Pilar de mampostería p/ medidor 0,45x0,45x1,70 m, no incluye cimiento ni nivelación",un,513000.0,N°514 Mar 2026
+821,INSTALACION ELECTRICA,Por llave de 4 vías o intermedia adicional,1 bc,,N°514 Mar 2026
+793,INSTALACION ELECTRICA,Registro eléctrico 25x25x40,un,110000.0,N°514 Mar 2026
+791,INSTALACION ELECTRICA,Registro eléctrico c/ drenaje y tapa de 30x30x40 cm,un,114000.0,N°514 Mar 2026
+805,INSTALACION ELECTRICA,Trifásica de 16 a 25 mm,ml,22000.0,N°514 Mar 2026
+810,INSTALACION ELECTRICA,Trifásica de 16 a 25 mm,ml,14000.0,N°514 Mar 2026
+813,INSTALACION ELECTRICA,Trifásica de 16 a 25 mm,ml,10000.0,N°514 Mar 2026
+804,INSTALACION ELECTRICA,Trifásica de 4 a 10 mm,ml,14000.0,N°514 Mar 2026
+809,INSTALACION ELECTRICA,Trifásica de 4 a 10 mm,ml,12000.0,N°514 Mar 2026
+812,INSTALACION ELECTRICA,Trifásica de 4 a 10 mm,ml,7000.0,N°514 Mar 2026
+796,INSTALACION ELECTRICA,Trifásico con limitadora hasta 45 A,14 bc,,N°514 Mar 2026
+798,INSTALACION ELECTRICA,Trifásico con limitadora hasta 45 A,2 bc,,N°514 Mar 2026
+833,INSTALACION ELECTRICA,Tubo fluorescente doble,un,30000.0,N°514 Mar 2026
+820,INSTALACION ELECTRICA,Una Toma corriente,1 bc,,N°514 Mar 2026
+819,INSTALACION ELECTRICA,Una lámpara c/ 2 llaves de combinación en escalera,2 bc,,N°514 Mar 2026
+818,INSTALACION ELECTRICA,Una lámpara con su interruptor,1 bc,,N°514 Mar 2026
+831,INSTALACION ELECTRICA,Ventilador de techo,un,100000.0,N°514 Mar 2026
+911,JORNALES Y HONORARIOS POR SERVICIOS,Ayudante,día,120000.0,N°514 Mar 2026
+914,JORNALES Y HONORARIOS POR SERVICIOS,Calculista,m²,18500.0,N°514 Mar 2026
+908,JORNALES Y HONORARIOS POR SERVICIOS,Capataz,día,250000.0,N°514 Mar 2026
+917,JORNALES Y HONORARIOS POR SERVICIOS,Copias Plotter por lámina,lam,12000.0,N°514 Mar 2026
+915,JORNALES Y HONORARIOS POR SERVICIOS,Cómputo métrico,m²,4000.0,N°514 Mar 2026
+912,JORNALES Y HONORARIOS POR SERVICIOS,Dibujante,hora,30000.0,N°514 Mar 2026
+913,JORNALES Y HONORARIOS POR SERVICIOS,Dibujante por lámina,lam,420000.0,N°514 Mar 2026
+910,JORNALES Y HONORARIOS POR SERVICIOS,Medio oficial,día,170000.0,N°514 Mar 2026
+909,JORNALES Y HONORARIOS POR SERVICIOS,Oficial,día,200000.0,N°514 Mar 2026
+916,JORNALES Y HONORARIOS POR SERVICIOS,Presupuesto de obra,m²,9000.0,N°514 Mar 2026
+551,MAMPOSTERIA y MUROS,"De 0,07 - 0,10 m",m²,22000.0,N°514 Mar 2026
+579,MAMPOSTERIA y MUROS,"De 0,10 m",m²,24000.0,N°514 Mar 2026
+590,MAMPOSTERIA y MUROS,"De 0,10 m",m²,28000.0,N°514 Mar 2026
+552,MAMPOSTERIA y MUROS,"De 0,15 m",m²,32000.0,N°514 Mar 2026
+580,MAMPOSTERIA y MUROS,"De 0,15 m",m²,26000.0,N°514 Mar 2026
+587,MAMPOSTERIA y MUROS,"De 0,15 m",m²,68000.0,N°514 Mar 2026
+591,MAMPOSTERIA y MUROS,"De 0,15 m",m²,28000.0,N°514 Mar 2026
+547,MAMPOSTERIA y MUROS,"De 0,15 m armada",m²,42000.0,N°514 Mar 2026
+553,MAMPOSTERIA y MUROS,"De 0,15 m armada",m²,36000.0,N°514 Mar 2026
+554,MAMPOSTERIA y MUROS,"De 0,15 m, 1 cara vista",m²,42000.0,N°514 Mar 2026
+581,MAMPOSTERIA y MUROS,"De 0,15 m, 1 cara vista",m²,30000.0,N°514 Mar 2026
+556,MAMPOSTERIA y MUROS,"De 0,15 m, 1 cara vista con ladrillo laminado",m²,50000.0,N°514 Mar 2026
+555,MAMPOSTERIA y MUROS,"De 0,15 m, 1 cara vista y lijada",m²,50000.0,N°514 Mar 2026
+557,MAMPOSTERIA y MUROS,"De 0,20 m",m²,39000.0,N°514 Mar 2026
+582,MAMPOSTERIA y MUROS,"De 0,20 m",m²,36000.0,N°514 Mar 2026
+588,MAMPOSTERIA y MUROS,"De 0,20 m",m²,75000.0,N°514 Mar 2026
+592,MAMPOSTERIA y MUROS,"De 0,20 m",m²,35000.0,N°514 Mar 2026
+583,MAMPOSTERIA y MUROS,"De 0,20 m, 1 cara vista",m²,39000.0,N°514 Mar 2026
+558,MAMPOSTERIA y MUROS,"De 0,20 m, 1 cara vista y lijada",m²,47000.0,N°514 Mar 2026
+584,MAMPOSTERIA y MUROS,"De 0,24 m",m²,40000.0,N°514 Mar 2026
+548,MAMPOSTERIA y MUROS,"De 0,30 m",m²,50000.0,N°514 Mar 2026
+559,MAMPOSTERIA y MUROS,"De 0,30 m",m²,49000.0,N°514 Mar 2026
+585,MAMPOSTERIA y MUROS,"De 0,30 m",m²,42000.0,N°514 Mar 2026
+589,MAMPOSTERIA y MUROS,"De 0,30 m",m²,88000.0,N°514 Mar 2026
+593,MAMPOSTERIA y MUROS,"De 0,30 m",m²,57000.0,N°514 Mar 2026
+549,MAMPOSTERIA y MUROS,"De 0,30 m armada",m²,58000.0,N°514 Mar 2026
+560,MAMPOSTERIA y MUROS,"De 0,30 m, 1 cara vista",m²,59000.0,N°514 Mar 2026
+586,MAMPOSTERIA y MUROS,"De 0,30 m, 1 cara vista",m²,44000.0,N°514 Mar 2026
+562,MAMPOSTERIA y MUROS,"De 0,30 m, 1 cara vista con ladrillo laminado",m²,65000.0,N°514 Mar 2026
+561,MAMPOSTERIA y MUROS,"De 0,30 m, 1 cara vista y lijada",m²,64000.0,N°514 Mar 2026
+563,MAMPOSTERIA y MUROS,"De 0,30 m, 2 caras vistas con ladrillo laminado",m²,74000.0,N°514 Mar 2026
+594,MAMPOSTERIA y MUROS,"De 0,40 m",m²,65000.0,N°514 Mar 2026
+550,MAMPOSTERIA y MUROS,"De 0,45 m",m²,62000.0,N°514 Mar 2026
+564,MAMPOSTERIA y MUROS,"De 0,45 m",m²,60000.0,N°514 Mar 2026
+565,MAMPOSTERIA y MUROS,"De 0,45 m de Submuración",m²,68000.0,N°514 Mar 2026
+595,MAMPOSTERIA y MUROS,Lijada de mampostería para visto,m²,3000.0,N°514 Mar 2026
+577,MAMPOSTERIA y MUROS,"Muro de contención 0,50 m",m³,155000.0,N°514 Mar 2026
+578,MAMPOSTERIA y MUROS,"Muro de ladrillo convocó, 2 caras vistas",m²,39000.0,N°514 Mar 2026
+574,MAMPOSTERIA y MUROS,"Muro de piedra 0,40 m",m²,78000.0,N°514 Mar 2026
+575,MAMPOSTERIA y MUROS,"Muro de piedra 0,40 m, 1 cara vista",m²,90000.0,N°514 Mar 2026
+576,MAMPOSTERIA y MUROS,Muro de piedra x m3,m³,140000.0,N°514 Mar 2026
+568,MAMPOSTERIA y MUROS,"Pilar 30x30 cm, ladrillo común",ml,38000.0,N°514 Mar 2026
+569,MAMPOSTERIA y MUROS,"Pilar 30x30 cm, ladrillo común visto",ml,45000.0,N°514 Mar 2026
+570,MAMPOSTERIA y MUROS,"Pilar 30x30 cm, ladrillo laminado visto",ml,45000.0,N°514 Mar 2026
+572,MAMPOSTERIA y MUROS,"Pilar 40x40 cm, ladrillo común",ml,45000.0,N°514 Mar 2026
+573,MAMPOSTERIA y MUROS,"Pilar 40x40 cm, ladrillo común visto",ml,55000.0,N°514 Mar 2026
+571,MAMPOSTERIA y MUROS,"Pilar con bloque H°Ø 30 cm, premoldeado c/ armadura",ml,64000.0,N°514 Mar 2026
+566,MAMPOSTERIA y MUROS,Sardinel con ladrillo común,ml,49000.0,N°514 Mar 2026
+567,MAMPOSTERIA y MUROS,Sardinel con ladrillo laminado,ml,49000.0,N°514 Mar 2026
+506,OTROS TRABAJOS,Bandeja de protección (armar),m²,32000.0,N°514 Mar 2026
+505,OTROS TRABAJOS,Carga de camión,un,230000.0,N°514 Mar 2026
+504,OTROS TRABAJOS,Carga de contenedor,un,180000.0,N°514 Mar 2026
+508,OTROS TRABAJOS,Desmontaje de torre para montacargas,ml,50000.0,N°514 Mar 2026
+496,OTROS TRABAJOS,Desmonte manual de suelo blando (sin acarreo),m³,42000.0,N°514 Mar 2026
+497,OTROS TRABAJOS,Desmonte manual de suelo duro (sin acarreo),m³,65000.0,N°514 Mar 2026
+499,OTROS TRABAJOS,"Destape de suelo vegetal, h=15 cm",m²,7000.0,N°514 Mar 2026
+498,OTROS TRABAJOS,"Destape de suelo vegetal, h=20 cm",m²,15000.0,N°514 Mar 2026
+507,OTROS TRABAJOS,Montaje de torre para montacargas,ml,85000.0,N°514 Mar 2026
+500,OTROS TRABAJOS,Relleno y compactación manual,m³,47000.0,N°514 Mar 2026
+501,OTROS TRABAJOS,Relleno y nivelación manual,m³,36000.0,N°514 Mar 2026
+502,OTROS TRABAJOS,Replanteo y marcación,m²,3000.0,N°514 Mar 2026
+503,OTROS TRABAJOS,Retiro de tierra o acarreo hasta 50 m,m³,42000.0,N°514 Mar 2026
+885,PINTURA,A la cal,m²,11000.0,N°514 Mar 2026
+868,PINTURA,A la cal blanca,m²,10000.0,N°514 Mar 2026
+869,PINTURA,A la cal color,m²,12000.0,N°514 Mar 2026
+874,PINTURA,Al esmalte sintético interior/exterior con enduido,m²,25000.0,N°514 Mar 2026
+884,PINTURA,Al látex con enduido,m²,29000.0,N°514 Mar 2026
+883,PINTURA,Al látex con fijador sin enduido,m²,14000.0,N°514 Mar 2026
+872,PINTURA,Al látex exterior con enduido en altura,m²,31000.0,N°514 Mar 2026
+873,PINTURA,Al látex exterior sin enduido en altura,m²,20000.0,N°514 Mar 2026
+875,PINTURA,Al látex interior o exterior,m²,10000.0,N°514 Mar 2026
+876,PINTURA,Al látex interior o exterior altura + de 5m,m²,12000.0,N°514 Mar 2026
+870,PINTURA,Al látex interior/exterior con enduido,m²,26000.0,N°514 Mar 2026
+871,PINTURA,Al látex interior/exterior sin enduido,m²,18000.0,N°514 Mar 2026
+886,PINTURA,Barnizado de machimbre,m²,16000.0,N°514 Mar 2026
+892,PINTURA,Con base p/ galvanizado y esmalte sintético,ml,11000.0,N°514 Mar 2026
+878,PINTURA,De abertura de madera,m²,16000.0,N°514 Mar 2026
+877,PINTURA,De pared,m²,10000.0,N°514 Mar 2026
+898,PINTURA,Desde 30 a 70 m de altura,m²,37000.0,N°514 Mar 2026
+897,PINTURA,Hasta 30 m de altura,m²,24000.0,N°514 Mar 2026
+895,PINTURA,"Limpieza, curado y pintura a la cal",m²,13000.0,N°514 Mar 2026
+893,PINTURA,"Limpieza, curado y siliconado o barnizado",m²,16000.0,N°514 Mar 2026
+894,PINTURA,"Limpieza, curado y siliconado o barnizado en altura",m²,18000.0,N°514 Mar 2026
+889,PINTURA,Marco y hoja c/ cromato y esmalte sintético,m²,18000.0,N°514 Mar 2026
+888,PINTURA,Marco y hoja con barniz,m²,21000.0,N°514 Mar 2026
+887,PINTURA,Marco y hoja con esmalte sintético,m²,28000.0,N°514 Mar 2026
+896,PINTURA,Pared texturada,m²,26000.0,N°514 Mar 2026
+899,PINTURA,Pintura con epoxi,m²,,N°514 Mar 2026
+882,PINTURA,"Pintura de alero de 0,60 m, P A",m²,21000.0,N°514 Mar 2026
+890,PINTURA,"Rejas, barandas y balancines c/ cromato y esmalte sint.",m²,26000.0,N°514 Mar 2026
+891,PINTURA,Tejido de metal,m²,18000.0,N°514 Mar 2026
+879,PINTURA,Tejuelita a la cal y maderamem c/ esmalte sintético,m²,18000.0,N°514 Mar 2026
+881,PINTURA,Tejuelita o tejuelón barnizado y maderamem con esmalte sintético,m²,18000.0,N°514 Mar 2026
+880,PINTURA,Tejuelón y maderamem barnizado,m²,18000.0,N°514 Mar 2026
+696,PISOS,Alfombra multipiso,m²,20000.0,N°514 Mar 2026
+688,PISOS,Alisada de cemento e=3 cm,m²,26000.0,N°514 Mar 2026
+690,PISOS,Alisada sobre contrapiso,m²,8000.0,N°514 Mar 2026
+698,PISOS,Baldosa calcárea o canto rodado,m²,28000.0,N°514 Mar 2026
+705,PISOS,"Baldosón de H°, 40x40 ó 50x50 cm",m²,28000.0,N°514 Mar 2026
+691,PISOS,Banquina p/ placard (contrapiso + carpeta hidrófuga),ml,35000.0,N°514 Mar 2026
+693,PISOS,Cerámica esmaltada en baño,m²,36000.0,N°514 Mar 2026
+694,PISOS,Cerámica esmaltada en escalón,m²,36000.0,N°514 Mar 2026
+692,PISOS,"Cerámica esmaltada, P I 5",m²,36000.0,N°514 Mar 2026
+695,PISOS,Cerámica porcelanato,m²,40000.0,N°514 Mar 2026
+724,PISOS,Colocación de cordón H° Prefabricado,ml,14000.0,N°514 Mar 2026
+722,PISOS,"Empedrado, h=0,20 m sin cordón",m²,18000.0,N°514 Mar 2026
+723,PISOS,"Empedrado, h=0,40 m sin cordón",m²,30000.0,N°514 Mar 2026
+703,PISOS,Ladrillo común,m²,22000.0,N°514 Mar 2026
+701,PISOS,Layota nacional o esmaltada,m²,28000.0,N°514 Mar 2026
+699,PISOS,Mosaico granítico,m²,28000.0,N°514 Mar 2026
+686,PISOS,Para alfombra o cerámica e=2 cm,m²,16000.0,N°514 Mar 2026
+687,PISOS,Para alfombra o cerámica en escalones,un,19000.0,N°514 Mar 2026
+708,PISOS,Parquet a bastón roto o tipo colonial clavado,m²,57000.0,N°514 Mar 2026
+709,PISOS,Parquet de lapacho tarugado,m²,63000.0,N°514 Mar 2026
+710,PISOS,"Parquet de machimbre curupa'y, 1 x 3"" pulido y lustrado",m²,72000.0,N°514 Mar 2026
+715,PISOS,Piedra Ardosia,m²,42000.0,N°514 Mar 2026
+719,PISOS,Piedra adoquín,m²,42000.0,N°514 Mar 2026
+716,PISOS,Piedra laja,m²,42000.0,N°514 Mar 2026
+714,PISOS,"Piedra losa 30x30, 30x40 y 40x40 cm",ml,42000.0,N°514 Mar 2026
+713,PISOS,Piedra losa rectangular,m²,42000.0,N°514 Mar 2026
+712,PISOS,Piedra losa rompecabeza con junta tomada,m²,42000.0,N°514 Mar 2026
+717,PISOS,Piedra rústica roja Misiones,m²,42000.0,N°514 Mar 2026
+718,PISOS,Piedra triturada esparcida a mano,m²,7000.0,N°514 Mar 2026
+697,PISOS,Piso vinílico 30x30,m²,25000.0,N°514 Mar 2026
+706,PISOS,Plancha de granito o mármol,m²,47000.0,N°514 Mar 2026
+707,PISOS,Plancha de mosaico granítico,m²,42000.0,N°514 Mar 2026
+700,PISOS,Pulido de mosaico granítico,m²,28000.0,N°514 Mar 2026
+711,PISOS,Rasqueteado y encerado,m²,64000.0,N°514 Mar 2026
+689,PISOS,Regleado rústico,m²,12000.0,N°514 Mar 2026
+721,PISOS,Rejilla en cámara de inspección,un,47000.0,N°514 Mar 2026
+720,PISOS,Tapa metálica en cámara de inspección,un,47000.0,N°514 Mar 2026
+704,PISOS,Tejuelita,m²,24000.0,N°514 Mar 2026
+702,PISOS,Veredita calcárea,m²,28000.0,N°514 Mar 2026
+485,PREPARACION DE OBRA,Limpieza de terreno (no incluye corte ni destronque de árboles),m²,4000.0,N°514 Mar 2026
+670,REVESTIMIENTOS,De azulejo,m²,34000.0,N°514 Mar 2026
+672,REVESTIMIENTOS,De azulejo (Listel o faja),m²,14000.0,N°514 Mar 2026
+671,REVESTIMIENTOS,"De azulejo, 10x10 cm",m²,34000.0,N°514 Mar 2026
+673,REVESTIMIENTOS,De ladrillejo,m²,48000.0,N°514 Mar 2026
+674,REVESTIMIENTOS,De ladrillejo (ladrillo cortado),m²,77000.0,N°514 Mar 2026
+675,REVESTIMIENTOS,De ladrillejo h=+5m,m²,52000.0,N°514 Mar 2026
+684,REVESTIMIENTOS,Empapelado,m²,26000.0,N°514 Mar 2026
+685,REVESTIMIENTOS,Machimbre,m²,45000.0,N°514 Mar 2026
+683,REVESTIMIENTOS,Piedra Wasmosy,m²,110000.0,N°514 Mar 2026
+681,REVESTIMIENTOS,Piedra abuchada,m²,86000.0,N°514 Mar 2026
+680,REVESTIMIENTOS,Piedra arenisca blanca o roja pulida en PA,m²,77000.0,N°514 Mar 2026
+679,REVESTIMIENTOS,Piedra arenisca blanca o roja pulida en PB,m²,72000.0,N°514 Mar 2026
+678,REVESTIMIENTOS,Piedra blanca rompecabeza,m²,40000.0,N°514 Mar 2026
+682,REVESTIMIENTOS,Piedra laja aserrada,m²,34000.0,N°514 Mar 2026
+676,REVESTIMIENTOS,Piedra lajón a escuadra,m²,75000.0,N°514 Mar 2026
+677,REVESTIMIENTOS,Piedra roja rompecabeza,m²,40000.0,N°514 Mar 2026
+621,REVOQUES,"A 1 capa común interior/exterior, fratachado o peinado",m²,24000.0,N°514 Mar 2026
+622,REVOQUES,"A 1 capa común interior/exterior, fratachado o peinado; h=+5,00 m",m²,32000.0,N°514 Mar 2026
+623,REVOQUES,A 1 capa fino sobre revoque peinado existente,m²,12000.0,N°514 Mar 2026
+634,REVOQUES,A 1 capa fratazado y filtrado con azotada,m²,49000.0,N°514 Mar 2026
+633,REVOQUES,A 1 capa fratazado y filtrado sin azotada,m²,35000.0,N°514 Mar 2026
+624,REVOQUES,A 2 capas (grueso + fino),m²,32000.0,N°514 Mar 2026
+635,REVOQUES,"A 2 capas (grueso + fino), con azotada",m²,48000.0,N°514 Mar 2026
+636,REVOQUES,"A 2 capas (grueso + fino), sin azotada",m²,45000.0,N°514 Mar 2026
+625,REVOQUES,A la lona o bolseado,m²,14000.0,N°514 Mar 2026
+630,REVOQUES,"Adherencia, espesor = 0,5 cm x ladrillo hueco",m²,7000.0,N°514 Mar 2026
+631,REVOQUES,"Adherencia, espesor = 0,5 cm x ladrillo hueco, h=+5,00 m",m²,11000.0,N°514 Mar 2026
+637,REVOQUES,Azotada o base planchada de metal desplegado,m²,14000.0,N°514 Mar 2026
+632,REVOQUES,"Azotada p/ adherencia por losa de H° A°, e=0,5 cm",m²,9000.0,N°514 Mar 2026
+627,REVOQUES,Base para revestido,m²,24000.0,N°514 Mar 2026
+643,REVOQUES,De ductos,ml,22000.0,N°514 Mar 2026
+641,REVOQUES,De goterón en alero,ml,26000.0,N°514 Mar 2026
+642,REVOQUES,"De losa de H° A°, (sin azotada)",ml,35000.0,N°514 Mar 2026
+640,REVOQUES,"De mochetas con 2 aristas (0,15x0,15)",ml,22000.0,N°514 Mar 2026
+644,REVOQUES,De vigas de H° A° de 15x20 ó 20x30 cm (incluye azotada + aristas),ml,40000.0,N°514 Mar 2026
+645,REVOQUES,De vigas de H° A° de 20x40 ó 30x50 cm (incluye azotada + aristas),ml,49000.0,N°514 Mar 2026
+628,REVOQUES,"Hidrófuga, espesor = 1 cm x ladrillo común o hueco",m²,11000.0,N°514 Mar 2026
+629,REVOQUES,"Hidrófuga, espesor = 1 cm x ladrillo común o hueco; exterior, h=+5,00 m",m²,14000.0,N°514 Mar 2026
+638,REVOQUES,Revoque de arista o canto,ml,11000.0,N°514 Mar 2026
+639,REVOQUES,Revoque de babetas o buñas,ml,16000.0,N°514 Mar 2026
+647,REVOQUES,Revoque de pilares 3 caras y aristas,m²,35000.0,N°514 Mar 2026
+646,REVOQUES,Revoque de pilares 4 caras y aristas,ml,42000.0,N°514 Mar 2026
+626,REVOQUES,Salpicado,m²,24000.0,N°514 Mar 2026
+921,SECTOR DE LA CONSTRUCCIÓN – SALARIO LEGAL,Calero,mes,2928049.0,N°514 Mar 2026
+919,SECTOR DE LA CONSTRUCCIÓN – SALARIO LEGAL,Oficial de primera,mes,3390579.0,N°514 Mar 2026
+920,SECTOR DE LA CONSTRUCCIÓN – SALARIO LEGAL,Oficial de segunda,mes,3301478.0,N°514 Mar 2026
+918,SECTOR DE LA CONSTRUCCIÓN – SALARIO LEGAL,Peones,mes,2928049.0,N°514 Mar 2026
+922,SECTOR DE LA CONSTRUCCIÓN – SALARIO LEGAL,Pintores,mes,2928049.0,N°514 Mar 2026
+664,TECHOS,"Bovedilla c/ tirantes 2x6"", tejuelitas y H° pobre",m²,91000.0,N°514 Mar 2026
+658,TECHOS,"Cabriadas de madera y planchuelas, preparación y montaje",ml,250000.0,N°514 Mar 2026
+657,TECHOS,"Cabriadas de madera, preparación y montaje",ml,180000.0,N°514 Mar 2026
+650,TECHOS,"Chapa galv. s/ estructura de tirantes 2x6""",m²,28000.0,N°514 Mar 2026
+661,TECHOS,Colocación de machimbre sobre tirantes,m²,32000.0,N°514 Mar 2026
+662,TECHOS,De chapa de fibrocemento acanalada,m²,28000.0,N°514 Mar 2026
+663,TECHOS,De chapa de fibrocemento acanalada autoportante,m²,42000.0,N°514 Mar 2026
+665,TECHOS,De paja,m²,50000.0,N°514 Mar 2026
+653,TECHOS,De teja española con tejuelita,m²,85000.0,N°514 Mar 2026
+651,TECHOS,De teja española con tejuelón,m²,90000.0,N°514 Mar 2026
+652,TECHOS,De teja española con tejuelón y limatón,m²,98000.0,N°514 Mar 2026
+654,TECHOS,De teja española sobre machimbre,m²,90000.0,N°514 Mar 2026
+655,TECHOS,De teja francesa sobre machimbre,m²,85000.0,N°514 Mar 2026
+656,TECHOS,De teja francesa vana,m²,55000.0,N°514 Mar 2026
+659,TECHOS,"Montaje de maderamen c/ tirantes 2x5"" o 2x6"" cepillados",ml,35000.0,N°514 Mar 2026
+660,TECHOS,Montaje de vigas,ml,50000.0,N°514 Mar 2026
+649,TECHOS,"Techo metálico termoacústico, preparación y montaje",m²,50000.0,N°514 Mar 2026
+648,TECHOS,"Techo metálico, preparación y montaje",m²,60000.0,N°514 Mar 2026
+495,"VALLADOS, CERCOS, ALAMBRADOS",Colocación poste de H° A°,un,18000.0,N°514 Mar 2026
+494,"VALLADOS, CERCOS, ALAMBRADOS",Tendido de alambre de púas 5 hilos y postes,ml,12000.0,N°514 Mar 2026
+492,"VALLADOS, CERCOS, ALAMBRADOS",Vallado de obra (armado),m²,33000.0,N°514 Mar 2026
+493,"VALLADOS, CERCOS, ALAMBRADOS",Vallado de obra (desarmado),m²,12000.0,N°514 Mar 2026
+904,VARIOS,Colocación balaustre sencillo,un,,N°514 Mar 2026
+902,VARIOS,"Estufa con boca 1,00 m",un,1978000.0,N°514 Mar 2026
+907,VARIOS,Limpieza final de obra,m²,3000.0,N°514 Mar 2026
+900,VARIOS,Moldura doble,ml,67000.0,N°514 Mar 2026
+901,VARIOS,Moldura sencilla,ml,52000.0,N°514 Mar 2026
+903,VARIOS,"Parrilla con boca 1,00 m",un,2119000.0,N°514 Mar 2026
+906,VARIOS,Tanque de fibra de vidrio 1000 l,un,,N°514 Mar 2026
+905,VARIOS,Tanque de fibra de vidrio 500 l,un,,N°514 Mar 2026
+731,ZOCALOS,Alfombra,ml,14000.0,N°514 Mar 2026
+726,ZOCALOS,Calcáreo o granítico,ml,14000.0,N°514 Mar 2026
+725,ZOCALOS,Cemento alisado,ml,14000.0,N°514 Mar 2026
+727,ZOCALOS,Cerámico,ml,14000.0,N°514 Mar 2026
+728,ZOCALOS,Layota,ml,14000.0,N°514 Mar 2026
+729,ZOCALOS,Mármol o granito natural,ml,28000.0,N°514 Mar 2026
+730,ZOCALOS,Parquet,ml,14000.0,N°514 Mar 2026

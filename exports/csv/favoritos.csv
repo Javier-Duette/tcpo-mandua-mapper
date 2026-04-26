@@ -1,0 +1,11 @@
+﻿id,proyecto_id,proyecto,codigo,descripcion_es,unidad,cantidad_estimada,precio_unitario_manual_gs,subtotal_gs,mandua_tipo,notas_propias,relevancia_py,capitulo
+1,1,Casa TP,02.102.000001.SER,"Demolición de mampostería de ladrillo común, con reutilización",M3,,85000.0,0.0,,,alta,02. Serviços Iniciais
+2,1,Casa TP,02.102.000002.SER,"Demolición de mampostería de ladrillo común, sin reutilización",M3,,,0.0,,,alta,02. Serviços Iniciais
+3,1,Casa TP,02.102.000009.SER,Demolición de edificaciones simples de mampostería,M2,,,0.0,,,alta,02. Serviços Iniciais
+4,1,Casa TP,04.103.000300.SER,"Muro de contención con gavión, malla hexagonal 8x10 cm, doble torsión, 2m alto",M,,,0.0,,,media,04. Infraestrutura
+5,1,Casa TP,04.103.000305.SER,"Muro de contención con gavión, malla hexagonal 8x10 cm, doble torsión, 4m alto",M,,,0.0,,,media,04. Infraestrutura
+6,1,Casa TP,04.107.000050.SER,Encofrado muro hormigón o pared estructural contrachapado plastificado # 12 mm,M2,,,0.0,,,media,04. Infraestrutura
+7,1,Casa TP,04.107.000051.SER,"Encofrado muro hormigón o pared estructural #12mm, 3 reutilizaciones",M2,,,0.0,,,media,04. Infraestrutura
+8,1,Casa TP,04.107.000051.SER,"Encofrado muro hormigón o pared estructural #12mm, 3 reutilizaciones",M2,,,0.0,,,media,04. Infraestrutura
+9,1,Casa TP,04.107.000052.SER,Encofrado muro hormigón o pared estructural contrachapado plastificado #12mm - fabricación,M2,,,0.0,,,media,04. Infraestrutura
+10,1,Casa TP,04.107.000052.SER,Encofrado muro hormigón o pared estructural contrachapado plastificado #12mm - fabricación,M2,,,0.0,,,media,04. Infraestrutura

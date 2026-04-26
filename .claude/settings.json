@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ping*)",
+      "Bash(tasklist*)",
+      "mcp__ccd_session__mark_chapter"
+    ]
+  }
+}

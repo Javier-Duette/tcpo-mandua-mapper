@@ -1,0 +1,7 @@
+[server]
+address = "0.0.0.0"      # escucha en todas las interfaces (necesario para acceso remoto)
+port = 8501
+headless = true           # no intenta abrir browser en el servidor
+
+[browser]
+gatherUsageStats = false
