@@ -50,7 +50,9 @@
       "Bash(ipconfig)",
       "Bash(findstr \"IPv4\")",
       "Bash(python3 -c \"import json,sys; obj=json.loads\\(sys.stdin.read\\(\\)\\); print\\(list\\(obj.keys\\(\\)\\)\\)\")",
-      "Bash(.venv/Scripts/python scripts/B1_traducir_capitulos.py)"
+      "Bash(.venv/Scripts/python scripts/B1_traducir_capitulos.py)",
+      "Bash(awk ' *)",
+      "Bash(git remote *)"
     ]
   }
 }

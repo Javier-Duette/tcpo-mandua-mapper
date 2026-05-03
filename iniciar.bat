@@ -10,6 +10,6 @@ if not exist ".venv\Scripts\activate.bat" (
 )
 
 call .venv\Scripts\activate
-echo Abriendo TCPO Explorer PY...
+echo Abriendo Cost-Mapper...
 start "" http://localhost:8501
 streamlit run app/main.py

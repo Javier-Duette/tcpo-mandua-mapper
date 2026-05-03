@@ -10,7 +10,7 @@ from app.components.detalle_partida import panel_detalle
 from app.components.filtros import panel_filtros
 from app.components.tabla_partidas import mostrar_tabla
 
-st.set_page_config(page_title="Explorador — TCPO PY", layout="wide",
+st.set_page_config(page_title="Explorador — Cost-Mapper", layout="wide",
                    page_icon="🔍", initial_sidebar_state="collapsed")
 
 # Heredar estado de sesión

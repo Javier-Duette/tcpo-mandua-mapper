@@ -30,7 +30,7 @@ call .venv\Scripts\activate
 
 echo.
 echo ============================================================
-echo   TCPO Explorer PY — Modo Servidor
+echo   Cost-Mapper — Modo Servidor
 echo ============================================================
 echo.
 if defined TS_IP (

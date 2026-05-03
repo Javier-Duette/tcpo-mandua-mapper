@@ -1,6 +1,6 @@
-# TCPO Explorer PY
+# Cost-Mapper
 
-Aplicación Streamlit local para navegar el catálogo TCPO v15 (Brasil) adaptado para
+Aplicación Streamlit local para navegar el catálogo TCPO v14 (Brasil) adaptado para
 presupuestos de obra en **Paraguay**, con precios de referencia Mandu'a (edición marzo 2026).
 
 ---
@@ -27,8 +27,8 @@ presupuestos de obra en **Paraguay**, con precios de referencia Mandu'a (edició
 ## Instalación
 
 ```bash
-git clone https://github.com/Javier-Duette/tcpo-mandua-mapper.git
-cd tcpo-mandua-mapper
+git clone https://github.com/Javier-Duette/cost-mapper.git
+cd cost-mapper
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows
@@ -75,7 +75,7 @@ La app queda disponible en `http://localhost:8501`.
 ## Estructura del proyecto
 
 ```
-tcpo-mandua-mapper/
+cost-mapper/
 ├── app/
 │   ├── main.py                     # Dashboard + configuración de página
 │   ├── pages/
@@ -134,6 +134,6 @@ tcpo-mandua-mapper/
 
 ## Créditos
 
-- Catálogo TCPO v15 — VOLARE-15_NOV2018 (Editora PINI, Brasil)
+- Catálogo TCPO v14 — VOLARE-15_NOV2018 (Editora PINI, Brasil)
 - Precios de referencia — Mandu'a edición marzo 2026 (Paraguay)
 - Traducción y clasificación — Google Gemini 2.5 Flash

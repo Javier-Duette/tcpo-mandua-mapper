@@ -18,7 +18,7 @@ from app.utils.queries import (
 )
 
 st.set_page_config(
-    page_title="Ítems propios — TCPO PY",
+    page_title="Ítems propios — Cost-Mapper",
     layout="wide",
     page_icon="🏗️",
     initial_sidebar_state="collapsed",

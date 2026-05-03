@@ -15,7 +15,7 @@ from app.utils.queries import (
 )
 from app.utils.formatters import fmt_pct
 
-st.set_page_config(page_title="Configuración — TCPO PY", layout="wide",
+st.set_page_config(page_title="Configuración — Cost-Mapper", layout="wide",
                    page_icon="⚙️", initial_sidebar_state="collapsed")
 
 st.title("⚙️ Configuración")
@@ -415,10 +415,10 @@ with tab_about:
 
     st.divider()
     st.markdown("""
-**TCPO Explorer PY** — v0.1
-Catálogo TCPO v15 (VOLARE-15_NOV2018) adaptado para Paraguay.
+**Cost-Mapper** — v0.1
+Catálogo TCPO v14 (VOLARE-15_NOV2018) adaptado para Paraguay.
 Precios de referencia Mandu'a — Edición marzo 2026.
-[GitHub: tcpo-mandua-mapper](https://github.com/Javier-Duette/tcpo-mandua-mapper)
+[GitHub: cost-mapper](https://github.com/Javier-Duette/cost-mapper)
     """)
 
     if st.button("🔍 Verificar integridad de DB", key="btn_integridad"):

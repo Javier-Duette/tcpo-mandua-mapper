@@ -1,4 +1,4 @@
-"""main.py — Home / Dashboard de TCPO Explorer PY."""
+"""main.py — Home / Dashboard de Cost-Mapper."""
 import sys
 from pathlib import Path
 
@@ -15,11 +15,11 @@ from app.utils.formatters import relevancia_badge
 # Configuración de página (solo en main.py)
 # ---------------------------------------------------------------------------
 st.set_page_config(
-    page_title="TCPO Explorer PY",
+    page_title="Cost-Mapper",
     page_icon="🏗️",
     layout="wide",
     initial_sidebar_state="expanded",
-    menu_items={"About": "TCPO Explorer PY — tcpo-mandua-mapper v0.1"},
+    menu_items={"About": "Cost-Mapper v0.1"},
 )
 
 # Inicializar session_state global
@@ -34,7 +34,7 @@ if "selected_item_id" not in st.session_state:
 # Sidebar — selector de proyecto activo
 # ---------------------------------------------------------------------------
 with st.sidebar:
-    st.markdown("## 🏗️ TCPO Explorer PY")
+    st.markdown("## 🏗️ Cost-Mapper")
     st.divider()
 
     df_proy = get_proyectos()
@@ -53,13 +53,13 @@ with st.sidebar:
         st.caption("Sin proyectos. Creá uno en **Proyectos**.")
 
     st.divider()
-    st.caption("v0.1 — tcpo-mandua-mapper")
+    st.caption("v0.1 — cost-mapper")
 
 # ---------------------------------------------------------------------------
 # Dashboard principal
 # ---------------------------------------------------------------------------
-st.title("🏗️ TCPO Explorer PY")
-st.caption("Catálogo TCPO v15 adaptado para presupuestos de obra en Paraguay")
+st.title("🏗️ Cost-Mapper")
+st.caption("Catálogo TCPO v14 adaptado para presupuestos de obra en Paraguay")
 
 stats = get_dashboard_stats()
 

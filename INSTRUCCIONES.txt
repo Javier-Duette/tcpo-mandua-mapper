@@ -1,5 +1,5 @@
 ============================================================
-  TCPO Explorer PY — Guia de instalacion
+  Cost-Mapper — Guia de instalacion
 ============================================================
 
 REQUISITO PREVIO: Python 3.11 o superior

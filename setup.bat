@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 echo ============================================================
-echo   TCPO Explorer PY — Instalacion
+echo   Cost-Mapper — Instalacion
 echo ============================================================
 echo.
 

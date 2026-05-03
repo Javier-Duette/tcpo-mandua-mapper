@@ -10,7 +10,7 @@ from app.utils.export import generar_csv, generar_excel_completo, generar_excel_
 from app.utils.formatters import fmt_gs
 from app.utils.queries import get_favoritos_con_detalle, get_proyectos
 
-st.set_page_config(page_title="Exportar — TCPO PY", layout="wide",
+st.set_page_config(page_title="Exportar — Cost-Mapper", layout="wide",
                    page_icon="📤", initial_sidebar_state="collapsed")
 
 if "proyecto_activo_id" not in st.session_state:

@@ -1,7 +1,7 @@
 ---
 meta:
-  product: TCPO Explorer PY
-  tagline: Catálogo TCPO v15 adaptado para presupuestos de obra en Paraguay
+  product: Cost-Mapper
+  tagline: Catálogo TCPO v14 adaptado para presupuestos de obra en Paraguay
   domain: Construction cost estimation / quantity surveying
   audience: Civil engineers, quantity surveyors, students adapting Brazilian TCPO data to the Paraguayan market
   language: Spanish (Paraguayan register, with bilingual PT/ES data)
@@ -52,7 +52,7 @@ typography:
     mono: "Source Code Pro, ui-monospace, SFMono-Regular, monospace"
   scale:
     metric-value: "2.25rem"        # st.metric headline numbers
-    h1: "2rem"                     # page titles (e.g. "🏗️ TCPO Explorer PY")
+    h1: "2rem"                     # page titles (e.g. "🏗️ Cost-Mapper")
     h2: "1.5rem"                   # section titles inside tabs
     h3: "1.25rem"                  # subsection
     body: "1rem"
@@ -273,7 +273,7 @@ namespace:
       signal — owners see their items at a glance.
 ---
 
-# TCPO Explorer PY — Visual Identity
+# Cost-Mapper — Visual Identity
 
 ## Personality
 

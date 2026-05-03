@@ -15,7 +15,7 @@ from app.utils.queries import (
     reordenar_favoritos, actualizar_proyecto,
 )
 
-st.set_page_config(page_title="Proyectos — TCPO PY", layout="wide",
+st.set_page_config(page_title="Proyectos — Cost-Mapper", layout="wide",
                    page_icon="📋", initial_sidebar_state="collapsed")
 
 if "proyecto_activo_id"     not in st.session_state:
